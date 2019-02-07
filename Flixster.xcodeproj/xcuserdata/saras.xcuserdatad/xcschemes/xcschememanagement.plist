@@ -7,7 +7,25 @@
 		<key>Flixster.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>777181C62208ED9C007168C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>777181DA2208ED9E007168C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>777181E52208ED9E007168C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
